@@ -1,7 +1,7 @@
 # Dribbblish amethyst recolour, originally made by Khanhas
 
 ## NOTE: Contains modified css, not guaranteed to work with other recolours 
-### Base
+### Amethyst
 ![amethyst](amethyst.png)
 
 To install, clone the repository, and copy paste the files into a "Dribbblish-amethyst" folder (you'll have to make it) in your spicetify Themes directory. 
